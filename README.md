@@ -16,10 +16,6 @@
 - More
 - Tutorial
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
 ## Introduction
 `Project Manager` is a full-stack Dribble clone developed using modern web technologies such as Next.js, GraphQL, Next Auth, TypeScript, and Tailwind CSS. The application replicates all the essential features of Dribble, enabling users to share and showcase their projects seamlessly.
 
